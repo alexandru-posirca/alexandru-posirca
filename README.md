@@ -49,7 +49,4 @@
 
 
 ### 💭 Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=red46)
-
-
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=red11172526)
