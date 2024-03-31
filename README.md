@@ -31,9 +31,9 @@
 
 ## ⚙️ My Projects
 
-* Fitness Club App  [LIVE](https://fitness-club-app.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Fitness-Club-App) 
-* Portfolio  [LIVE](https://alexandru-posirca-portfolio.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Portfolio)
-* Web Dev Agency  [LIVE](https://github.com/alexandru-posirca/Web-Dev-Agency) | [REPO](https://github.com/alexandru-posirca/Web-Dev-Agency)
+* Web Dev Agency  [LIVE](https://web-dev-agency.pages.dev/){:target="_blank"} | [REPO](https://github.com/alexandru-posirca/Web-Dev-Agency){:target="_blank"} Tech Stack: Astro, HTML, Tailwind CSS, JavaScript
+* Fitness Club App  [LIVE](https://fitness-club-app.pages.dev/){:target="_blank"} | [REPO](https://github.com/alexandru-posirca/Fitness-Club-App){:target="_blank"} Tech Stack: HTML, Tailwind CSS, JavaScript
+* Portfolio  [LIVE](https://alexandru-posirca-portfolio.pages.dev/){:target="_blank"} | [REPO](https://github.com/alexandru-posirca/Portfolio){:target="_blank"} Tech Stack: HTML, SASS, JavaScript
 
 ## 💻 Tech Stack:
   <img src="https://skillicons.dev/icons?i=js,react,html,astro,css,sass,tailwind" />
