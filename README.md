@@ -23,22 +23,22 @@
 
 📖 I'm currently learning and developing with **React**
 
-👀 Looking for a **frontend developer** position, eager to learn and adapt fast.
+👀 Looking for a **Frontend Developer** position, eager to learn and adapt fast
 
 📄 Know about [MY RESUME](https://drive.google.com/file/d/14JSJzks24kA5XXmnaAeWg6BDRHQhFgtH/view?utm_source=google-drive)
 
-⚡ *Slowly, is the fastest way to get to where you want to be*.
+⚡ *Slowly, is the fastest way to get to where you want to be*
 
 ## ⚙️ My Projects
 
-* Web Dev Agency - [LIVE](https://web-dev-agency.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Web-Dev-Agency) | Tech Stack - Astro | HTML | Tailwind CSS | JavaScript
-* Fitness Club App - [LIVE](https://fitness-club-app.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Fitness-Club-App) | Tech Stack - HTML | Tailwind CSS | JavaScript
-* Portfolio - [LIVE](https://alexandru-posirca-portfolio.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Portfolio) | Tech Stack - HTML | SASS | JavaScript
+* Web Dev Agency - [LIVE](https://web-dev-agency.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Web-Dev-Agency) < Astro | Tailwind CSS | JavaScript />
+* Fitness Club App - [LIVE](https://fitness-club-app.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Fitness-Club-App) < HTML | Tailwind CSS | JavaScript />
+* Portfolio - [LIVE](https://alexandru-posirca-portfolio.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Portfolio) < HTML | SASS | JavaScript />
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
   <img src="https://skillicons.dev/icons?i=js,react,html,astro,css,sass,tailwind" />
 
-## 🛠 Tools:
+## 🛠 Tools
   <img src="https://skillicons.dev/icons?i=figma,xd,firebase,postman,vscode" />
 <br>
 
