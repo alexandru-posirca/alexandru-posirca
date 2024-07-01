@@ -31,7 +31,9 @@
 
 ## ⚙️ My Projects
 
+* Task Management Platform - [LIVE](https://task-management-software.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Task-Management-Software) < React | Tailwind CSS />
 * Web Dev Agency - [LIVE](https://web-dev-agency.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Web-Dev-Agency) < Astro | Tailwind CSS | JavaScript />
+* Honey Recipes - [LIVE](https://honey-recipes.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Honey-Recipes?tab=readme-ov-file) < React | Tailwind CSS />
 * Fitness Club App - [LIVE](https://fitness-club-app.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Fitness-Club-App) < HTML | Tailwind CSS | JavaScript />
 * Portfolio - [LIVE](https://alexandru-posirca-portfolio.pages.dev/) | [REPO](https://github.com/alexandru-posirca/Portfolio) < HTML | SASS | JavaScript />
 
